@@ -19,4 +19,5 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
-![Alt text](/home/nando/Imagens/passwd.png "Optional title")
+![Alt text](./imagens/passwd.png "Optional title")
+
